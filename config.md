@@ -1,6 +1,6 @@
 # 配置安装说明
 
-##系统需求
+## 系统需求
 
 下载
 
@@ -25,7 +25,7 @@ eclipse
 http://wc.mysvc.net/files1554/
 
 
-##目录结构
+## 目录结构
 
 
 开发软件目录c:\wchat-prj 为例
@@ -52,7 +52,7 @@ http://wc.mysvc.net/files1554/
 
 
 
-##1 设置环境
+## 1 设置环境
 
 1.1 JAVA环境变量
 JAVA_HOME
@@ -107,10 +107,11 @@ redis-server --service-install redis.windows-service.conf
 
 1.5 配置wx-sec.txt
 n从1开始
-[wx-1]
-...
-[wx-2]
-...
+
+    [wx-1]
+    ...
+    [wx-2]
+    ...
 
     [wx-n]  
     appId=
@@ -152,7 +153,7 @@ c:\wchat-prj\src\wchat-mgr\run-test.bat
 
 
 
-####其他
+#### 其他
 
    extjs-doc
 
