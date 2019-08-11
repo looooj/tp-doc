@@ -148,7 +148,7 @@ c:\wchat-prj\src\wchat-mgr\run-test.bat
 
 浏览器http://localhost:8080/
 
-
+ 
 
 
 
@@ -156,7 +156,7 @@ c:\wchat-prj\src\wchat-mgr\run-test.bat
 
    extjs-doc
 
-		location /ext5doc {
+	location /ext5doc {
            autoindex on;
            alias  "/extjs-511-docs/";
-        }  
+    }  
